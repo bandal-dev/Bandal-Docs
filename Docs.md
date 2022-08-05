@@ -1,4 +1,5 @@
-언어 소개
+# The Bandal Programming Language
+언어소개
 
 # 1. Getting started
 ## 1.1 Installation
